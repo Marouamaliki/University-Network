@@ -1,0 +1,2 @@
+
+ La création et la configuration du réseau universitaire de l'Université Euromed de Fès (UEMF) sur Cisco Packet Tracer. Ce projet vise à mettre en place un réseau dynamique et sécurisé en utilisant des technologies Cisco telles que routeurs,commutateurs, appareilles(pc,imprimante,laptop, …) et serveurs. La sécurité sera renforcée par la configuration de VPN et de firewalls, assurant ainsi une communication fiable et protégée au sein de l'université
